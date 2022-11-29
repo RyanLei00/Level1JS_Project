@@ -1,0 +1,18 @@
+.buttonsDiv{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+}
+
+.buttons{
+    background-color: grey;
+    padding: 20px;
+    margin: 20px;
+    color:aliceblue;
+}
+
+.text{
+    text-align: center;
+    font-size: 25px;
+}
